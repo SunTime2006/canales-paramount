@@ -1,0 +1,45 @@
+#EXTM3U
+#EXTINF:-1,MTV Hits (Europa)
+http://190.60.40.34:8001/play/a06b
+
+#EXTINF:-1,MTV 00s (Europa)
+http://45.173.75.4:2061/play/a09i
+
+#EXTINF:-1,MTV 90s (Europa)
+http://46.149.191.217:9011/play/a00v
+
+#EXTINF:-1,Club MTV (Europa)
+http://46.149.191.217:9011/play/a00t
+
+#EXTINF:-1,MTV Live (Europa)
+http://190.119.43.180:8000/play/a0vz/index.m3u8
+
+#EXTINF:-1,NickMusic (Europa)
+http://38.49.128.38:8000/play/a0lt/index.m3u8
+
+#EXTINF:-1,Paramount Network (Latinoamérica)
+http://192.141.98.91:8000/play/a0nm/index.m3u8
+
+#EXTINF:-1,TeenNick (Latinoamérica)
+http://186.145.137.48:8000/play/TEENNICK
+
+#EXTINF:-1,MTV (Brasil)
+http://138.204.235.154:8000/play/a007/index.m3u8
+
+#EXTINF:-1,MTV Live (Brasil)
+http://181.41.199.49:8000/play/a0lm/index.m3u8
+
+#EXTINF:-1,MTV 00s (Brasil)
+http://181.13.252.102:8000/play/a053/index.m3u8
+
+#EXTINF:-1,Comedy Central (Brasil)
+http://200.4.96.59:8825/play/a01y/index.m3u8
+
+#EXTINF:-1,Paramount Network (Brasil)
+http://200.4.96.59:8825/play/a01z/index.m3u8
+
+#EXTINF:-1,Nickelodeon (Brasil)
+http://200.4.96.59:8825/play/a01z/index.m3u8
+
+#EXTINF:-1,Nick Jr (Brasil)
+http://168.205.55.2:8000/play/a06j/index.m3u8
