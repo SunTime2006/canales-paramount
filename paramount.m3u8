@@ -39,7 +39,7 @@ http://200.4.96.59:8825/play/a01y/index.m3u8
 http://200.4.96.59:8825/play/a01z/index.m3u8
 
 #EXTINF:-1,Nickelodeon (Brasil)
-http://200.4.96.59:8825/play/a01z/index.m3u8
+http://168.205.55.2:8000/play/a059/index.m3u8
 
 #EXTINF:-1,Nick Jr (Brasil)
 http://168.205.55.2:8000/play/a06j/index.m3u8
