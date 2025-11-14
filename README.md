@@ -1,1 +1,1 @@
-# canales-brasil
+# canales-paramount
