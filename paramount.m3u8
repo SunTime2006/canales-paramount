@@ -2,8 +2,11 @@
 #EXTINF:-1,MTV Hits (Europa)
 http://190.60.40.34:8001/play/a06b
 
+#EXTINF:-1,MTV 80s (Europa)
+http://200.92.227.238:8000/play/a0lt/index.m3u8
+
 #EXTINF:-1,MTV 00s (Europa)
-http://45.173.75.4:2061/play/a09i
+http://179.51.160.246:9009/play/a07c/index.m3u8
 
 #EXTINF:-1,MTV 90s (Europa)
 http://46.149.191.217:9011/play/a00v
@@ -24,10 +27,10 @@ http://181.79.81.145:8000/play/a1fg
 http://186.145.137.48:8000/play/TEENNICK
 
 #EXTINF:-1,MTV (Brasil)
-http://138.204.235.154:8000/play/a007/index.m3u8
+http://saga10.pro:80/345715/562156/1263354
 
 #EXTINF:-1,MTV Live (Brasil)
-http://181.41.199.49:8000/play/a0lm/index.m3u8
+http://79.127.238.195/592109/Aws0824/103489.ts
 
 #EXTINF:-1,MTV 00s (Brasil)
 http://181.13.252.102:8000/play/a053/index.m3u8
