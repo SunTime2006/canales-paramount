@@ -18,7 +18,7 @@ http://46.149.191.217:9011/play/a00t
 http://190.119.43.180:8000/play/a0vz/index.m3u8
 
 #EXTINF:-1,NickMusic (Europa)
-http://38.49.128.38:8000/play/a0lt/index.m3u8
+https://dchiplr12yf4h.cloudfront.net/paramount/mtv-music/index.m3u8
 
 #EXTINF:-1,Paramount Network (Latinoamérica)
 http://181.79.81.145:8000/play/a1fg
@@ -27,7 +27,7 @@ http://181.79.81.145:8000/play/a1fg
 http://45.181.123.123:8000/play/a00f 
 
 #EXTINF:-1,MTV (Brasil)
-http://45.235.0.78/MTV/playlist.m3u8
+http://216.106.180.118/123456789/987654321/13573642.ts
 
 #EXTINF:-1,MTV Live (Brasil)
 http://1fcpbqww8.vip/032180/2XJc6X/103489.ts
@@ -45,4 +45,4 @@ http://200.4.96.59:8825/play/a01z/index.m3u8
 http://168.205.55.2:8000/play/a059/index.m3u8
 
 #EXTINF:-1,Nick Jr (Brasil)
-http://168.205.55.2:8000/play/a06j/index.m3u8
+http://smarterstv99.dyndns.tv:25461/live/IselaGranad24/CbgVfaaXAqSj/525412.m3u8
